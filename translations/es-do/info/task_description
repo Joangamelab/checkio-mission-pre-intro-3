@@ -1,0 +1,54 @@
+<!-- Describe task in general -->
+
+<p style="text-align: justify;">
+    Guardando en la memoria tus conocimientos sobre variables y operaciones con ellas, hagamos un paso a un lado y ahora hablemos de que son las funciones. Las funciones son un bloque de código, que se puede usar varias veces en diferentes lugares. Por lo general, las funciones obtienen algunos datos de entrada (parámetros), realizan algunas operaciones con ellos y devuelven algún valor externo.  
+</p>
+
+<p>
+    1. En esta misión es necesario definir una función utilizando la palabra reservada <code>func</code>, La cual no admitirá argumentos en esta ocasión.
+</p>
+
+<p style="text-align: justify;">
+    2. ¡Tu función tampoco va a hacer nada! Para mantener un código (expresión) funcionando correctamente sin hacer nada, es necesario utilizar los marcadores de posición: con la palabra reservada <code>pass</code> o el operador <code>...</code>. 
+</p>
+
+<p>
+    3. Tenga en cuenta que incluso si una función no devuelve nada, devorverá el valor vacío <code>None</code> de todos modos.
+</p>
+
+<!-- <p style="text-align: center;">
+    <img  title="example" src="{{MEDIA}}example.png" alt="example" style="max-height: 83px"/>
+</p> -->
+
+<!-- Explain input and output values -->
+<!-- <p>
+    <strong>Input:</strong> Two arguments. Both are ints.
+</p>
+
+<p>
+    <strong>Output:</strong> Int. 
+</p>
+
+
+<p>
+    <strong>Examples:</strong>
+</p> -->
+
+<!-- <pre class="brush: {% if is_js %}javascript{% else %}python{% endif %}">{{init_code_tmpl}}</pre> -->
+
+<!-- Here you can explain how it can be used in development -->
+<!-- The section is optional -->
+<!-- <p class="for_info_only">
+
+    <strong>How it’s used:</strong>
+    <i>(math is used everywhere)</i>
+</p> -->
+
+<!-- Here you can explain some constraints for input-->
+<!-- The section is optional -->
+<!-- <p>
+    <strong>Preconditions:</strong>
+    <ul>
+    <li><i>both given ints should be between -1000 and 1000</i></li>
+    </ul>
+</p> -->
